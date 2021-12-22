@@ -13,4 +13,4 @@
 [submodule "librocksdb-sys/rocksdb"]
 	path = librocksdb-sys/rocksdb
 	url = https://github.com/Longarithm/rocksdb.git
-	branch = increase-buffer
+	branch = increase-buffer-2
